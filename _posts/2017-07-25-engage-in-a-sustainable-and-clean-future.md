@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Engage in a sustainable and clean future
-dateModified: '2017-07-25T07:21:37.281Z'
-datePublished: '2017-07-25T07:21:38.055Z'
+dateModified: '2017-07-25T08:47:48.853Z'
+datePublished: '2017-07-25T08:47:49.589Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-07-25-engage-in-a-sustainable-and-clean-future.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-25T07:19:38.476Z'
-_type: Blurb
+url: engage-in-a-sustainable-and-clean-future/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a14f5ae-8a16-4a7a-94e1-43bf5f142510.png)
