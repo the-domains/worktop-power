@@ -1,0 +1,54 @@
+color:
+  lightness: 0.8023763396317084
+  brandColors:
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
+  saturation: 0.1755483339483729
+  brandStrength: 0.165076826737513
+  rhythmicContrast: 0.7733992812627459
+name: worktop power
+layout_spectrum: 0.6821305593475699
+typography_spectrum: 0.8232667346019298
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70805573-1d84-4e49-b483-eb0df0985a28.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/70805573-1d84-4e49-b483-eb0df0985a28.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Sustainable Energy
+description: Green Energy and Agricultural development
+purpose:
+  - type: contact
+    url: 'tel:+8615953217973'
+    label: Call +8615953217973
+  - type: contact
+    url: 'mailto:1423046906@qq.com'
+    label: Contact me
+author:
+  name: Joe
+  email: 1423046906@qq.com
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba3f2df1-b25c-495d-9b26-23007767ceb1.png
