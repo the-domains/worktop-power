@@ -15,7 +15,8 @@ layout_spectrum: 0.6821305593475699
 author:
   name: Joe
   email: 1423046906@qq.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db9a4e4-7981-47eb-8985-4e1d4d10868f.png
 name: worktop power
 navigation:
   - name: Green House
