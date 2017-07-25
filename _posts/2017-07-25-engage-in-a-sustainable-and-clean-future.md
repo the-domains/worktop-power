@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: PV Tracker
-dateModified: '2017-07-25T10:10:27.184Z'
-datePublished: '2017-07-25T10:10:56.460Z'
+dateModified: '2017-07-25T13:40:44.667Z'
+datePublished: '2017-07-25T13:40:44.898Z'
 title: Single Axes Vertical Tracker
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-07-25-engage-in-a-sustainable-and-clean-future.md
 hasPage: true
+datePublishedOriginal: '2017-07-25T13:40:44.898Z'
 starred: false
-datePublishedOriginal: '2017-07-25T10:10:56.460Z'
 url: single-axes-vertical-tracker/index.html
 _type: Article
 
