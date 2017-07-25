@@ -22,6 +22,9 @@ navigation:
   - name: Green House
     id: 43c789fc-d214-4bc8-88db-11cb6878f42a
     type: content
+  - name: PV Tracker
+    id: 66dd4cff-d579-482a-af26-32309baf62ab
+    type: content
 title: Sustainable Energy
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
